@@ -24,7 +24,7 @@ Contributions are appreciated (once the codebase becomes stable)!
 - Star ⭐ this org to keep up with updates
 - Participate in the discussion within Issues & Pull Requests
 - Post suggestions for future features
-- Help us Figure out how to jailbreak the switch 2 
+- Keep us updated on new jailbreaking discoveries
 
 ---
 
